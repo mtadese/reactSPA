@@ -14,7 +14,7 @@ return (
     This is one of the various options I am using. The main goal is to be able to host this app on AWS via the Amplify Console. 
     I will delve into other devops based routines afterwards. From Containerisation and Orchestration to Configuration Management.
 </p>
-<p>More details are available on the Cntact page</p>
+<p>More details are available on the Contact page</p>
 </div>
 );
 }
